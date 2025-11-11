@@ -1,0 +1,11 @@
+Escolha um texto de sua preferência, que possua mais de quinhentas palavras, para fazer o pré-processamento*. Mostre como o grupo de palavras se manteve a cada etapa, faça uma contagem das palavras mais utilizadas. Em seguida separe todos os verbos, substantivos e adjetivos presentes (pos-tag), separe os cinco mais utilizados.
+
+* Pré-processamento:
+    • Remover pontuação, números e stopwords
+    • Normalização (minúsculas e remoção de acentos)
+    • Tokenização
+    • Stemming e lematização 
+
+Bibliotecas: NLTK, Pandas
+
+Entrega: Pequeno relatório, nem precisa ser formal, dizendo como foi a experiência e as diferenças entre o que esperava e o que foi visto.
